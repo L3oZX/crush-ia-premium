@@ -4,6 +4,7 @@
   "description": "Análise de conversas por Inteligência Artificial",
   "main": "server.js",
   "scripts": {
+    "postinstall": "npm install --prefix frontend",
     "start": "node server.js",
     "server": "node server.js",
     "client": "npm run --prefix frontend dev",
