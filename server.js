@@ -36,8 +36,8 @@ app.use(cors({
   allowedHeaders: ['Content-Type', 'Authorization', 'X-Admin-Token']
 }));
 
-// 3. Body size limit – 2MB max (enough for pasted text + base64 image preview)
-app.use(express.json({ limit: '2mb' }));
+// 3. Body size limit – 10MB max (sufficient for high-resolution mobile base64 screenshots)
+app.use(express.json({ limit: '10mb' }));
 
 // 4. Global rate limiter – 100 req/15min per IP
 const globalLimiter = rateLimit({
