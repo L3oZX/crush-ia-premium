@@ -786,3 +786,68 @@ h1, h2, h3, h4, h5, h6 {
   max-width: 1200px;
   margin: 3rem auto 0;
 }
+
+/* Mobile Layout Optimizations */
+@media (max-width: 580px) {
+  .app-container {
+    padding: 1rem 0.5rem;
+  }
+  
+  .glass-card {
+    padding: 1.25rem 1rem;
+    border-radius: 16px;
+  }
+  
+  .landing-hero {
+    padding: 2.5rem 0.5rem 3.5rem;
+  }
+  
+  .landing-hero h1 {
+    font-size: 2rem !important;
+  }
+  
+  .landing-hero p {
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .upload-zone {
+    padding: 1.5rem 1rem;
+  }
+  
+  .zodiac-selector-grid {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+  }
+  
+  .zodiac-gauge-container {
+    gap: 1.5rem;
+  }
+  
+  .response-item {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.75rem;
+    padding: 1rem;
+  }
+  
+  .response-cat {
+    width: 100% !important;
+    text-align: center;
+  }
+  
+  .response-text {
+    text-align: center;
+    font-size: 0.9rem;
+  }
+  
+  .response-item button {
+    width: 100%;
+  }
+
+  .nav-header {
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1rem;
+  }
+}
