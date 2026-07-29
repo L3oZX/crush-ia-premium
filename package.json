@@ -1,0 +1,30 @@
+{
+  "name": "crush-ia-premium",
+  "version": "1.0.0",
+  "description": "Análise de conversas por Inteligência Artificial",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "node server.js",
+    "client": "npm run --prefix frontend dev",
+    "dev": "concurrently \"node server.js\" \"npm run --prefix frontend dev\"",
+    "build": "npm run --prefix frontend build"
+  },
+  "keywords": [
+    "crush-ia",
+    "ai",
+    "romance",
+    "chat-analyzer"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.2.2",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^8.6.1",
+    "helmet": "^8.3.0"
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "users": [],
+  "analyses": [
+    {
+      "id": "anl_cwsaeg45g",
+      "text": "Eu: Oi! Tudo bem?\nCrush: Oi sim! Que saudade, tava pensando em voc�. Vamos nos ver essa semana?",
+      "settings": {
+        "tone": "romantica",
+        "targetGoal": "conquistar",
+        "signs": {
+          "user": "aries",
+          "crush": "cancer"
+        }
+      },
+      "status": "paid",
+      "createdAt": "2026-07-29T19:39:13.764Z",
+      "result": {
+        "interestScore": 93,
+        "reciprocityScore": 84,
+        "emotions": [
+          "Carinho",
+          "Atração"
+        ],
+        "intentions": "Desejo claro de encontro físico e avanço da relação.",
+        "positivePoints": [
+          "Respostas rápidas e uso de risadas sinalizam conforto na conversa.",
+          "Perguntas de retorno demonstram que a pessoa quer manter o diálogo ativo.",
+          "Termos afetuosos sutis indicam abertura para intimidade."
+        ],
+        "attentionPoints": [
+          "Uso ocasional de respostas curtas em momentos chaves.",
+          "Ausência de iniciativa direta para propor um encontro (pode indicar timidez ou indecisão)."
+        ],
+        "evolutionProbability": "Muito Alta (85%+)",
+        "summary": "A conversa demonstra uma dinâmica de forte atração e envolvimento. A outra pessoa responde ativamente, demonstrando um nível de reciprocidade saudável. O foco deve ser guiar a conversa das mensagens para o contato físico de forma natural e sem pressa, reforçando os pontos de conexão intelectual e de humor compartilhados.",
+        "suggestions": [
+          {
+            "category": "Romântica",
+            "text": "Você sempre sabe o que dizer para me fazer sorrir, sabia?"
+          },
+          {
+            "category": "Engraçada",
+            "text": "Gostei do papo, mas estou aceitando suborno em forma de chocolate para responder mais rápido."
+          },
+          {
+            "category": "Misteriosa",
+            "text": "Você acha mesmo que me conhece tão fácil assim? Tenho algumas surpresas guardadas..."
+          },
+          {
+            "category": "Confiante",
+            "text": "Eu sei que você estava esperando minha mensagem. O que vamos fazer hoje à noite?"
+          },
+          {
+            "category": "Direta",
+            "text": "Gostei muito de falar com você. Que tal irmos direto ao ponto e marcarmos algo?"
+          }
+        ],
+        "insights": {
+          "toAvoid": "Evite pressionar por respostas imediatas ou mandar múltiplos blocos de mensagens quando a pessoa demorar a visualizar.",
+          "bestTime": "No início da noite (entre 19:30 e 21:30), quando o ritmo do dia diminui e há mais espaço para respostas descontraídas.",
+          "worthInsisting": "Sim, com certeza! O interesse é nítido e a conversa tem excelente fluidez.",
+          "evolutionChances": "88% de chances de evoluir para um encontro físico nos próximos 15 dias caso o canal de comunicação se mantenha aberto.",
+          "recommendations": "Foque em histórias divertidas do seu dia em vez de perguntas burocráticas ('tudo bem', 'como foi o dia'). Crie ganchos de conversa abertos."
+        },
+        "zodiacCompatibility": {
+          "love": 60,
+          "emotional": 85,
+          "communication": 60,
+          "general": 68,
+          "summary": "Áries pode ser direto demais para o sensível Câncer. Relação exige empatia mútua.",
+          "disclaimer": "Atenção: A análise de compatibilidade astral é baseada em arquétipos do zodíaco e possui caráter exclusivamente recreativo e de entretenimento."
+        }
+      }
+    },
+    {
+      "id": "anl_e7ae1f3495b2",
+      "text": "Ele: Oi sumida! Tudo bem? Ela: Oi! Tudo sim, e com vocEle: Oi sumida! Tudo bem? Ela: Oi! Tudo sim, e com voce? Ele: Tudo otimo. Vamos marcar de sair? Ela: Sim, claro!",
+      "settings": {
+        "tone": "romantica",
+        "targetGoal": "conquistar",
+        "signs": {
+          "user": "aries",
+          "crush": "touro"
+        }
+      },
+      "status": "pending",
+      "createdAt": "2026-07-29T20:14:54.038Z",
+      "result": {
+        "interestScore": 79,
+        "reciprocityScore": 75,
+        "emotions": [
+          "Carinho",
+          "Atração"
+        ],
+        "intentions": "Aproximação romântica gradual.",
+        "positivePoints": [
+          "Respostas rápidas e uso de risadas sinalizam conforto na conversa.",
+          "Perguntas de retorno demonstram que a pessoa quer manter o diálogo ativo.",
+          "Termos afetuosos sutis indicam abertura para intimidade."
+        ],
+        "attentionPoints": [
+          "Uso ocasional de respostas curtas em momentos chaves.",
+          "Ausência de iniciativa direta para propor um encontro (pode indicar timidez ou indecisão)."
+        ],
+        "evolutionProbability": "Muito Alta (85%+)",
+        "summary": "A conversa demonstra uma dinâmica de forte atração e envolvimento. A outra pessoa responde ativamente, demonstrando um nível de reciprocidade saudável. O foco deve ser guiar a conversa das mensagens para o contato físico de forma natural e sem pressa, reforçando os pontos de conexão intelectual e de humor compartilhados.",
+        "suggestions": [
+          {
+            "category": "Romântica",
+            "text": "Você sempre sabe o que dizer para me fazer sorrir, sabia?"
+          },
+          {
+            "category": "Engraçada",
+            "text": "Minha mãe disse que eu não deveria falar com estranhos, mas por você eu abro uma exceção!"
+          },
+          {
+            "category": "Misteriosa",
+            "text": "Você acha mesmo que me conhece tão fácil assim? Tenho algumas surpresas guardadas..."
+          },
+          {
+            "category": "Confiante",
+            "text": "A melhor parte do meu dia é quando a gente conversa. E do seu também, né?"
+          },
+          {
+            "category": "Direta",
+            "text": "Gostei muito de falar com você. Que tal irmos direto ao ponto e marcarmos algo?"
+          }
+        ],
+        "insights": {
+          "toAvoid": "Evite pressionar por respostas imediatas ou mandar múltiplos blocos de mensagens quando a pessoa demorar a visualizar.",
+          "bestTime": "No início da noite (entre 19:30 e 21:30), quando o ritmo do dia diminui e há mais espaço para respostas descontraídas.",
+          "worthInsisting": "Sim, com certeza! O interesse é nítido e a conversa tem excelente fluidez.",
+          "evolutionChances": "74% de chances de evoluir para um encontro físico nos próximos 15 dias caso o canal de comunicação se mantenha aberto.",
+          "recommendations": "Foque em histórias divertidas do seu dia em vez de perguntas burocráticas ('tudo bem', 'como foi o dia'). Crie ganchos de conversa abertos."
+        },
+        "zodiacCompatibility": {
+          "love": 70,
+          "emotional": 80,
+          "communication": 65,
+          "general": 72,
+          "summary": "Fogo e Terra. Touro busca estabilidade, enquanto Áries quer velocidade. Exige paciência.",
+          "disclaimer": "Atenção: A análise de compatibilidade astral é baseada em arquétipos do zodíaco e possui caráter exclusivamente recreativo e de entretenimento."
+        }
+      }
+    },
+    {
+      "id": "anl_d02fd3c3e54e",
+      "text": "Ele: Oi. Ela: Ola.",
+      "settings": {
+        "tone": "romantica",
+        "targetGoal": "conquistar",
+        "signs": {
+          "user": "aries",
+          "crush": "touro"
+        }
+      },
+      "status": "pending",
+      "createdAt": "2026-07-29T20:15:31.967Z",
+      "result": {
+        "interestScore": 65,
+        "reciprocityScore": 60,
+        "emotions": [
+          "Neutro",
+          "Formalidade"
+        ],
+        "intentions": "Aproximação romântica gradual.",
+        "positivePoints": [
+          "Respostas rápidas e uso de risadas sinalizam conforto na conversa.",
+          "Perguntas de retorno demonstram que a pessoa quer manter o diálogo ativo.",
+          "Termos afetuosos sutis indicam abertura para intimidade."
+        ],
+        "attentionPoints": [
+          "Uso ocasional de respostas curtas em momentos chaves.",
+          "Ausência de iniciativa direta para propor um encontro (pode indicar timidez ou indecisão)."
+        ],
+        "evolutionProbability": "Média-Alta (65%)",
+        "summary": "A conversa demonstra uma dinâmica de interesse morno e envolvimento. A outra pessoa responde ativamente, demonstrando um nível de reciprocidade saudável. O foco deve ser guiar a conversa das mensagens para o contato físico de forma natural e sem pressa, reforçando os pontos de conexão intelectual e de humor compartilhados.",
+        "suggestions": [
+          {
+            "category": "Romântica",
+            "text": "Gosto de como a conversa flui fácil com você. Já estou com saudades."
+          },
+          {
+            "category": "Engraçada",
+            "text": "Gostei do papo, mas estou aceitando suborno em forma de chocolate para responder mais rápido."
+          },
+          {
+            "category": "Misteriosa",
+            "text": "Talvez eu te conte o segredo, mas vai ter que merecer primeiro."
+          },
+          {
+            "category": "Confiante",
+            "text": "Não vamos perder tempo enrolando: quando a gente vai se ver?"
+          },
+          {
+            "category": "Direta",
+            "text": "Vou ser sincero: quero muito te ver de novo. Qual o seu melhor dia?"
+          }
+        ],
+        "insights": {
+          "toAvoid": "Evite pressionar por respostas imediatas ou mandar múltiplos blocos de mensagens quando a pessoa demorar a visualizar.",
+          "bestTime": "No início da noite (entre 19:30 e 21:30), quando o ritmo do dia diminui e há mais espaço para respostas descontraídas.",
+          "worthInsisting": "Sim, com certeza! O interesse é nítido e a conversa tem excelente fluidez.",
+          "evolutionChances": "60% de chances de evoluir para um encontro físico nos próximos 15 dias caso o canal de comunicação se mantenha aberto.",
+          "recommendations": "Foque em histórias divertidas do seu dia em vez de perguntas burocráticas ('tudo bem', 'como foi o dia'). Crie ganchos de conversa abertos."
+        },
+        "zodiacCompatibility": {
+          "love": 70,
+          "emotional": 80,
+          "communication": 65,
+          "general": 72,
+          "summary": "Fogo e Terra. Touro busca estabilidade, enquanto Áries quer velocidade. Exige paciência.",
+          "disclaimer": "Atenção: A análise de compatibilidade astral é baseada em arquétipos do zodíaco e possui caráter exclusivamente recreativo e de entretenimento."
+        }
+      }
+    },
+    {
+      "id": "anl_03d2ece58025",
+      "text": "Ele: Oi sumida. Ela: Oi.",
+      "settings": {
+        "tone": "romantica",
+        "targetGoal": "conquistar",
+        "signs": {
+          "user": "aries",
+          "crush": "touro"
+        }
+      },
+      "status": "pending",
+      "createdAt": "2026-07-29T20:16:38.303Z",
+      "result": {
+        "interestScore": 65,
+        "reciprocityScore": 60,
+        "emotions": [
+          "Neutro",
+          "Formalidade"
+        ],
+        "intentions": "Aproximação romântica gradual.",
+        "positivePoints": [
+          "Respostas rápidas e uso de risadas sinalizam conforto na conversa.",
+          "Perguntas de retorno demonstram que a pessoa quer manter o diálogo ativo.",
+          "Termos afetuosos sutis indicam abertura para intimidade."
+        ],
+        "attentionPoints": [
+          "Uso ocasional de respostas curtas em momentos chaves.",
+          "Ausência de iniciativa direta para propor um encontro (pode indicar timidez ou indecisão)."
+        ],
+        "evolutionProbability": "Média-Alta (65%)",
+        "summary": "A conversa demonstra uma dinâmica de interesse morno e envolvimento. A outra pessoa responde ativamente, demonstrando um nível de reciprocidade saudável. O foco deve ser guiar a conversa das mensagens para o contato físico de forma natural e sem pressa, reforçando os pontos de conexão intelectual e de humor compartilhados.",
+        "suggestions": [
+          {
+            "category": "Romântica",
+            "text": "Gosto de como a conversa flui fácil com você. Já estou com saudades."
+          },
+          {
+            "category": "Engraçada",
+            "text": "Se nossa conversa fosse um filme, já teria ganhado o Oscar de melhor comédia dramática."
+          },
+          {
+            "category": "Misteriosa",
+            "text": "Interessante... mas acho que tem coisas que são muito melhores se ditas pessoalmente."
+          },
+          {
+            "category": "Confiante",
+            "text": "A melhor parte do meu dia é quando a gente conversa. E do seu também, né?"
+          },
+          {
+            "category": "Direta",
+            "text": "Gostei muito de falar com você. Que tal irmos direto ao ponto e marcarmos algo?"
+          }
+        ],
+        "insights": {
+          "toAvoid": "Evite pressionar por respostas imediatas ou mandar múltiplos blocos de mensagens quando a pessoa demorar a visualizar.",
+          "bestTime": "No início da noite (entre 19:30 e 21:30), quando o ritmo do dia diminui e há mais espaço para respostas descontraídas.",
+          "worthInsisting": "Sim, com certeza! O interesse é nítido e a conversa tem excelente fluidez.",
+          "evolutionChances": "60% de chances de evoluir para um encontro físico nos próximos 15 dias caso o canal de comunicação se mantenha aberto.",
+          "recommendations": "Foque em histórias divertidas do seu dia em vez de perguntas burocráticas ('tudo bem', 'como foi o dia'). Crie ganchos de conversa abertos."
+        },
+        "zodiacCompatibility": {
+          "love": 70,
+          "emotional": 80,
+          "communication": 65,
+          "general": 72,
+          "summary": "Fogo e Terra. Touro busca estabilidade, enquanto Áries quer velocidade. Exige paciência.",
+          "disclaimer": "Atenção: A análise de compatibilidade astral é baseada em arquétipos do zodíaco e possui caráter exclusivamente recreativo e de entretenimento."
+        }
+      }
+    },
+    {
+      "id": "anl_b91917e17d25",
+      "text": "Eu: Oi tudo bem? Tava pensando em vocEu: Oi tudo bem? Tava pensando em voce. Crush: Oi! Tudo otimo, que bom. Vamos nos ver essa semana?",
+      "settings": {
+        "tone": "engracada",
+        "targetGoal": "reatar",
+        "signs": {
+          "user": "touro",
+          "crush": "cancer"
+        }
+      },
+      "status": "paid",
+      "createdAt": "2026-07-29T20:23:10.904Z",
+      "result": {
+        "interestScore": 85,
+        "reciprocityScore": 78,
+        "emotions": [
+          "Carinho",
+          "Atração"
+        ],
+        "intentions": "Desejo claro de encontro físico e avanço da relação.",
+        "positivePoints": [
+          "Respostas rápidas e uso de risadas sinalizam conforto na conversa.",
+          "Perguntas de retorno demonstram que a pessoa quer manter o diálogo ativo.",
+          "Termos afetuosos sutis indicam abertura para intimidade."
+        ],
+        "attentionPoints": [
+          "Uso ocasional de respostas curtas em momentos chaves.",
+          "Ausência de iniciativa direta para propor um encontro (pode indicar timidez ou indecisão)."
+        ],
+        "evolutionProbability": "Muito Alta (85%+)",
+        "summary": "A conversa demonstra uma dinâmica de forte atração e envolvimento. A outra pessoa responde ativamente, demonstrando um nível de reciprocidade saudável. O foco deve ser guiar a conversa das mensagens para o contato físico de forma natural e sem pressa, reforçando os pontos de conexão intelectual e de humor compartilhados.",
+        "suggestions": [
+          {
+            "category": "Romântica",
+            "text": "Você sempre sabe o que dizer para me fazer sorrir, sabia?"
+          },
+          {
+            "category": "Engraçada",
+            "text": "Gostei do papo, mas estou aceitando suborno em forma de chocolate para responder mais rápido."
+          },
+          {
+            "category": "Misteriosa",
+            "text": "Você acha mesmo que me conhece tão fácil assim? Tenho algumas surpresas guardadas..."
+          },
+          {
+            "category": "Confiante",
+            "text": "A melhor parte do meu dia é quando a gente conversa. E do seu também, né?"
+          },
+          {
+            "category": "Direta",
+            "text": "Vou ser sincero: quero muito te ver de novo. Qual o seu melhor dia?"
+          }
+        ],
+        "insights": {
+          "toAvoid": "Evite pressionar por respostas imediatas ou mandar múltiplos blocos de mensagens quando a pessoa demorar a visualizar.",
+          "bestTime": "No início da noite (entre 19:30 e 21:30), quando o ritmo do dia diminui e há mais espaço para respostas descontraídas.",
+          "worthInsisting": "Sim, com certeza! O interesse é nítido e a conversa tem excelente fluidez.",
+          "evolutionChances": "80% de chances de evoluir para um encontro físico nos próximos 15 dias caso o canal de comunicação se mantenha aberto.",
+          "recommendations": "Foque em histórias divertidas do seu dia em vez de perguntas burocráticas ('tudo bem', 'como foi o dia'). Crie ganchos de conversa abertos."
+        },
+        "zodiacCompatibility": {
+          "love": 92,
+          "emotional": 95,
+          "communication": 88,
+          "general": 92,
+          "summary": "Uma das melhores combinações. Sensibilidade de Câncer acolhe a estabilidade de Touro perfeitamente.",
+          "disclaimer": "Atenção: A análise de compatibilidade astral é baseada em arquétipos do zodíaco e possui caráter exclusivamente recreativo e de entretenimento."
+        }
+      }
+    }
+  ],
+  "transactions": [
+    {
+      "id": "tx_q6tyapmqt",
+      "analysisId": "anl_cwsaeg45g",
+      "gateway": "Kiwify",
+      "amount": 19.9,
+      "orderId": "kiw_test_001",
+      "createdAt": "2026-07-29T19:39:18.966Z"
+    },
+    {
+      "id": "tx_sim_9ecaea8ea6",
+      "analysisId": "anl_b91917e17d25",
+      "gateway": "Cakto",
+      "amount": 19.9,
+      "orderId": "sim_a4952147d4",
+      "createdAt": "2026-07-29T20:24:39.120Z"
+    }
+  ],
+  "metrics": {
+    "visits": 3
+  }
+}
