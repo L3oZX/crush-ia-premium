@@ -97,26 +97,16 @@ export default function App() {
 
   return (
     <div>
-      {/* Navigation Header — minimal to reduce distraction */}
       <nav style={{
         borderBottom: '1px solid rgba(255,255,255,0.05)',
         background: 'rgba(7,7,20,0.6)',
         backdropFilter: 'blur(12px)',
         position: 'sticky', top: 0, zIndex: 100
       }}>
-        <div style={{ maxWidth: 1200, margin: '0 auto', padding: '1rem', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+        <div style={{ maxWidth: 1200, margin: '0 auto', padding: '1rem', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
           <a href="#" className="logo" onClick={(e) => { e.preventDefault(); setCurrentView('landing'); }}>
             <span style={{ color: 'var(--secondary)' }}>💝</span> Crush IA
-            <span className="badge" style={{ padding: '0.2rem 0.5rem', fontSize: '0.6rem', verticalAlign: 'middle', marginLeft: '0.3rem' }}>PREMIUM</span>
           </a>
-
-          {/* Show CTA in nav only on landing page */}
-          {currentView === 'landing' && (
-            <button className="btn btn-primary" style={{ padding: '0.55rem 1.4rem', fontSize: '0.9rem' }}
-              onClick={() => setCurrentView('analyzer')}>
-              Analisar agora — R$ 19,90 ⚡
-            </button>
-          )}
         </div>
       </nav>
 
