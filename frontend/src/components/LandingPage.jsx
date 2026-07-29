@@ -83,16 +83,6 @@ export default function LandingPage({ onStartAnalysis }) {
   return (
     <div>
 
-      {/* ━━━ URGENCY BAR ━━━ */}
-      <div style={{
-        background: 'linear-gradient(90deg, rgba(244,63,94,0.9) 0%, rgba(139,92,246,0.9) 100%)',
-        padding: '0.6rem 1rem', textAlign: 'center', fontSize: '0.9rem', fontWeight: 600,
-        display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '0.75rem', flexWrap: 'wrap'
-      }}>
-        <span>🔥 Oferta por tempo limitado: desconto encerra em</span>
-        <CountdownTimer />
-      </div>
-
       {/* ━━━ HERO ━━━ */}
       <section style={{ textAlign: 'center', padding: '4rem 1rem 3rem', position: 'relative' }}>
 
